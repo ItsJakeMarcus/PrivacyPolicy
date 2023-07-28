@@ -6,6 +6,6 @@ This Privacy Policy contains the type of information collected by I, the develop
 
 Consent By using apps developed by me on the Apple App Store you consent to this Privacy Policy and agree to its terms.
 
-Information Collected None - this app does not implement any 3rd party SDK which can be used for gaining personal details. Your data is not accessed in any of my apps and is stored securely on your device or personal iCloud account.
+Information Collected, None - this app does not implement any 3rd party SDK which can be used for gaining personal details. Your data is stored securely on your device or personal iCloud account.
 
 If contacted, you may share personally identifiable information with me such as name, email address and phone number. This data is not shared with third parties and is only used for communicating between myself and you, the user.
